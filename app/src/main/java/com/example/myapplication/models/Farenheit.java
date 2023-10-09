@@ -1,0 +1,1 @@
+package com.example.myapplication.models;public class Farenheit extends Grado {        public Farenheit(Double valor) {            this.setValor(valor);            this.setUnidad("F");        }}

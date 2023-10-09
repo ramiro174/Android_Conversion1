@@ -1,0 +1,1 @@
+package com.example.myapplication.models;public class Kelvin  extends Grado{    public Kelvin(Double valor) {        this.setValor(valor);        this.setUnidad("K");    }}
